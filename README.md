@@ -1,5 +1,5 @@
 # 关于标题加粗
-
+公用less文件
 src\pages\base.less 
 .paragraph_title{
      font-weight: 500;
