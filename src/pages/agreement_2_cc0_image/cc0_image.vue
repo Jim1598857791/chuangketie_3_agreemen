@@ -20,9 +20,8 @@
             公有领域是指任何个人或团体都不具有其所有权的知识财产。
             版权到期的作品，或者创作者公开放弃所有权的作品自动进入公有领域。
             任何人不具有所有权，意味着这些作品可以被自由地复制，修改，分发和演出——甚至用于商业目的)。
-            <a
-              href="http://edu.chuangkit.com/forum.php?mod=viewthread&tid=983&page=1&extra=#pid2543"
-            >CC0协议原文</a>
+              <router-link to="/cc01_0_text_url">CC0协议原文</router-link>
+            <!-- <a href="http://edu.chuangkit.com/forum.php?mod=viewthread&tid=983&page=1&extra=#pid2543">CC0协议原文</a> -->
           </p>
           <br>
           <p>2.采用此协议后，该创作则可以被不加限制的引用、转载、二次改编、再发表、运用于商业用途，使用者可以不标示该创作的来源和作者。</p>
