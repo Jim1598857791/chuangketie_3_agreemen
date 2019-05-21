@@ -32,7 +32,7 @@
             <span style="color:red">邮箱</span> 里面，届时您会收到发件人为
             <span style="color:red">service@chuangkit.com</span> 所发的 “
             <span style="color:red; font-weight: bold;">您收到来自北京艺源酷科技有限公司的电子发票【发票号***】</span>
-            ”； （如果15个工作日未收到，请检查您邮箱的垃圾邮件夹，
+            ”；（如果15个工作日未收到，请检查您邮箱的垃圾邮件夹，
             可能会被您的邮箱提供商错误的归类为垃圾邮件。）
           </p>
         </div>
@@ -60,8 +60,8 @@
             ， 右上角可以点击申请发票，或者查看发票历史。
           </p>
           <br>
-          <img src="./img/1.jpg" style="width:1000px;" alt>
-          <img src="./img/2.png" style="width:1000px;" alt>
+          <img src="./img/problem_1_fapiao_1.jpg" style="width:1000px;" alt>
+          <img src="./img/problem_1_fapiao_2.png" style="width:1000px;" alt>
           <br>
           <p>
             15个工作日内您会在此申请邮箱内收到发件人为

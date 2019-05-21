@@ -11,8 +11,8 @@
           升级企业版权VIP后，可获得由创客贴提供的商业授权书：
         </div>
         <div class="paragraph_content">
-          <img style="width:1000px;" src="./img/1.jpg" alt>
-          <img style="width:1000px;" src="./img/2.jpg" alt>
+          <img style="width:1000px;" src="./img/problem_3_empower_1.jpg" alt>
+          <img style="width:1000px;" src="./img/problem_3_empower_2.jpg" alt>
         </div>
       </div>
     </div>
