@@ -7,7 +7,7 @@
       <div class="paragraph">
         <div class="paragraph_title">一. 关于CC0图片</div>
         <div class="paragraph_content">
-          <p>1.你可以下载免费的无版权高清CC0图片，这里的CC0图片都以知识共享组织(Creative Commons)的CC0协议发布。</p>
+          <p>你可以下载免费的无版权高清CC0图片，这里的CC0图片都以知识共享组织(Creative Commons)的CC0协议发布。</p>
           <br>
         </div>
       </div>
@@ -31,14 +31,14 @@
       <div class="paragraph">
         <div class="paragraph_title">三. 我可以使用CC0图片吗?</div>
         <div class="paragraph_content">
-          <p>1.你可以复制、修改、转发等方式使用这些图像，甚至用作商业用途，无需申请许可，也无需支付版权费用。也不用担心版权问题。</p>
+          <p>你可以复制、修改、转发等方式使用这些图像，甚至用作商业用途，无需申请许可，也无需支付版权费用。也不用担心版权问题。</p>
           <br>
         </div>
       </div>
       <div class="paragraph">
         <div class="paragraph_title">四. 局限性</div>
         <div class="paragraph_content">
-          <p>1.图片中的内容仍有可能涉及肖像、商标权和公共及隐私权。或者法律规定的其他约束或限制。</p>
+          <p>图片中的内容仍有可能涉及肖像、商标权和公共及隐私权。或者法律规定的其他约束或限制。</p>
           <br>
         </div>
       </div>
@@ -46,7 +46,7 @@
       <div class="paragraph">
         <div class="paragraph_title">五. 免责声明</div>
         <div class="paragraph_content">
-          <p>1.本平台按其现状提供这些信息，但是本平台对于所提供的信息不承担任何担保责任，亦不对因使用该信息而造成的损失承担损害赔偿责任。</p>
+          <p>本平台按其现状提供这些信息，但是本平台对于所提供的信息不承担任何担保责任，亦不对因使用该信息而造成的损失承担损害赔偿责任。</p>
           <br>
         </div>
       </div>
