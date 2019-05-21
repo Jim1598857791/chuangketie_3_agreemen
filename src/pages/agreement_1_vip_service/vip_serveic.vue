@@ -88,7 +88,7 @@
           </div>
           <br>
           <p
-            style="font-family: PingFangSC-Semibold;"
+            style="font-family: PingFangSC-Semibold; font-weight: bold;"
           >10.你理解并同意创客贴有权根据实际业务需要不时地调整其网站内容而无需另行通知你，包括但不限于内容增减、授权期限、收费模式等等。</p>
         </div>
       </div>

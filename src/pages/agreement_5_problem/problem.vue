@@ -9,7 +9,8 @@
         <div class="paragraph_content">
           <p>
             发票相关问题：
-            <a href="http://edu.chuangkit.com/forum.php?mod=viewthread&tid=380">点击了解详情</a>
+            <router-link to="/problem_1_fapiao_url">点击了解详情</router-link>
+            <!-- <a href="http://edu.chuangkit.com/forum.php?mod=viewthread&tid=380">点击了解详情</a> -->
           </p>
         </div>
       </div>
@@ -19,7 +20,8 @@
         <div class="paragraph_content">
           <p>
             版权相关问题：
-            <a href="http://edu.chuangkit.com/forum.php?mod=viewthread&tid=949&extra=">点击了解详情</a>
+            <router-link to="/problem_2_copyright_url">点击了解详情</router-link>
+            <!-- <a href="http://edu.chuangkit.com/forum.php?mod=viewthread&tid=949&extra=">点击了解详情</a> -->
           </p>
         </div>
       </div>
@@ -29,9 +31,8 @@
         <div class="paragraph_content">
           <p>
             商业授权书：
-            <a
-              href="http://edu.chuangkit.com/forum.php?mod=viewthread&tid=950&page=1&extra=#pid2482"
-            >点击了解详情</a>
+            <router-link to="/problem_3_empower_url">点击了解详情</router-link>
+            <!-- <a href="http://edu.chuangkit.com/forum.php?mod=viewthread&tid=950&page=1&extra=#pid2482">点击了解详情</a> -->
           </p>
         </div>
       </div>
