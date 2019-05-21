@@ -55,9 +55,9 @@
       <div class="paragraph">
         <div class="paragraph_title">三. 授权范围</div>
         <div class="paragraph_content">
-          <p>授权性质：企业商用授权。</p>
+          <p>1.授权性质：企业商用授权。</p>
           <br>
-          <p>授权用途范围：</p>
+          <p>2.授权用途范围：</p>
           <table border="1">
             <tr>
               <th>范围</th>
