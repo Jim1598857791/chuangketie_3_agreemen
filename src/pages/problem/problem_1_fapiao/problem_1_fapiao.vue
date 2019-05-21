@@ -61,11 +61,13 @@
           </p>
           <br>
           <img src="./img/problem_1_fapiao_1.jpg" style="width:1000px;" alt>
-          <img src="./img/problem_1_fapiao_2.png" style="width:1000px;" alt>
+          <a href="https://www.chuangkit.com/list/print">
+            <img src="./img/problem_1_fapiao_2.png" style="width:1000px;" alt>
+          </a>
           <br>
           <p>
             15个工作日内您会在此申请邮箱内收到发件人为
-            <span style="color:red; ">service@chuangkit.com</span>所发的 “
+            <span style="color:red; ">service@chuangkit.com</span> 所发的 “
             <span style="color:red; font-weight: bold;">您收到来自北京艺源酷科技有限公司的电子发票【发票号***】</span>
             ” 请随时注意查收，如有问题请随时联系我们的客服电话 400-8718211 。
           </p>
