@@ -1,3 +1,10 @@
+# 关于标题加粗
+
+src\pages\base.less 
+.paragraph_title{
+     font-weight: 500;
+}
+
 # 关于协议的一点问题
 https://shimo.im/docs/oO9X6ogklE4gFQe7/ 《关于协议的一点问题》，可复制链接后用石墨文档 App 或小程序打开
 # lantern-template
